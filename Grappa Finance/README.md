@@ -1,6 +1,4 @@
-### Please provide the commit hash which needs to be audited
-
-___
+# Audit scope
 
 ### On what chains are the smart contracts going to be deployed?
 
@@ -57,9 +55,13 @@ ___
 
 ___
 
+### Please provide the commit hash and contracts which needs to be audited
+[EXAMPLE-NAME @ EXAMPLE-HASH](https://github.com/EXAMPLE-LINK)
+- [EXAMPLE-NAME-OF-CONTRACT.sol](EXAMPLE-LINK-TO-CONTRACT.sol.sol) (can use both or one of the two)
+- ...
+- ...
+___
 
-
-# Audit scope
 
 # Audit severity classification
 
