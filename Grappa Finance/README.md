@@ -84,4 +84,8 @@ Max 2 weeks (14 days)
 
 A comprehensive security assessment of a smart contract can never ensure the total absence of vulnerabilities. This audit cannot guarantee absolute security, nor can it guarantee the detection of any issues in your smart contracts. To bolster security, it is highly advised to conduct subsequent security reviews, establish bug bounty programs, and implement on-chain monitoring.
 
-This is a free audit provided by Delvir0.
+This is a service provided as a free audit by Delvir0.
+
+# Approval
+
+**...Legal name or alias...** 
