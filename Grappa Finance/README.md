@@ -57,7 +57,7 @@ ___
 
 ### Please provide the commit hash and contracts which needs to be audited
 [EXAMPLE-NAME @ EXAMPLE-HASH](https://github.com/EXAMPLE-LINK)
-- [EXAMPLE-NAME-OF-CONTRACT.sol](EXAMPLE-LINK-TO-CONTRACT.sol.sol) (can use both or one of the two)
+- [EXAMPLE-NAME-OF-CONTRACT.sol](EXAMPLE-LINK-TO-CONTRACT.sol.sol)
 - ...
 - ...
 ___
