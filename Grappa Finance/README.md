@@ -88,4 +88,4 @@ This is a service provided as a free audit by Delvir0.
 
 # Approval
 
-_..Legal name or alias.._
+_Legal name or alias_
