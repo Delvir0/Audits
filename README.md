@@ -2,7 +2,7 @@
 
 Provides all reports performed
 
-### private audits
+### Private audits (free)
 
 | protocol | scope | report |
 | ---- | ---- | ---------|
