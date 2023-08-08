@@ -9,7 +9,7 @@ Thoroughly analyse the codebase, constructing a comprehensive mental framework. 
 Following up on Stage 1, refining the insights gained during the analysis. By revisiting and refining initial observations, aspects that may seem off, strike as not logical or possible attack entries are diligently pursued.
 
 ### Stage 3: Unveiling Vulnerabilities
-Proactively seeking out weaknesses, basically poking at area's where "it would be really bad if this would (intentially) break". This is the part where most critical issues arise.
+Proactively seeking out weaknesses, basically poking at area's where "it would be really bad if this would (intentionally) break". This is done manualy and by using tools (e.g. fuzzing). Usually, this is the part where the most severe issues arise.
 
 ### Stage 4: Harnessing Collective Creativity
 Gain insights from the wider communicty by reading recent audits of similar protocols (such as on solodit.xyz). This infuses fresh perspectives and innovative insights into the audit, boosting its effectiveness.
