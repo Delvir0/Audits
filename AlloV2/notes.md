@@ -1,6 +1,6 @@
 # Sherlock's Allo-V2 contest not-submitted issues
 Don't ask me why mkay?
-## High/ Critical: It's possible to front run allocation or distribution and change the approved allocation to a higher value
+## High: It's possible to front run allocation or distribution and change the approved allocation to a higher value
 
 ### Contract: `RFPSimpleStrategy.sol`
 ### Summary:
