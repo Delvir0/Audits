@@ -27,10 +27,10 @@ Provides reports of all performed audits.
 
 ## Contests
 
-**Scope:** This is the scope **I** audited, not the whole codebase\
+**Scope:** This is the scope **I** audited, not the whole codebase
 
 | protocol | scope | H/M found | place | report |
-| ---- | ---- | ---------| ---- | ---- | ---------|
+| ---- | ---- | ---------| ---- | ---- | 
 | Hubble Exchange | InsuranceFund.sol, OrderBook.sol | 1H, 1 M | 14/148 | [report](https://audits.sherlock.xyz/contests/72/report)
 | Bond Options | OTLM.sol | 1 M | 15/153 | [report](https://audits.sherlock.xyz/contests/99/report) 
 | Dinari | full contest | 1 M | 16/176 | [report](https://audits.sherlock.xyz/contests/98/report) 
