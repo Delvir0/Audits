@@ -23,6 +23,7 @@ Provides reports of all performed audits.
 | protocol | scope | report |
 | ---- | ---- | ---------|
 | [Grappa Finance](https://www.grappa.finance/) | Full Collateral Engine | [report](https://github.com/Delvir0/Grappa-Finance/blob/main/GrappaFinance-FullCollateralEngine-report.md.pdf)
+| [Wassie-Racing](https://wassieracing.com/) | Game Contracts | [report](https://github.com/Delvir0/Audits/blob/main/Wassie-Racing/report.md)
 
 
 ## Contests
