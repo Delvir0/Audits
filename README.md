@@ -18,13 +18,15 @@ Gain insights from the wider community by reading recent audits of similar proto
 
 Provides reports of all performed audits.
 
-## Private audits
+## Private reviews
 
-| protocol | scope | report |
+| protocol | scope | found | report |
 | ---- | ---- | ---------|
-| [Grappa Finance](https://www.grappa.finance/) | Full Collateral Engine | [report](https://github.com/Delvir0/Grappa-Finance/blob/main/GrappaFinance-FullCollateralEngine-report.md.pdf)
-| [Wassie-Racing](https://wassieracing.com/) | Game Contracts | [report](https://github.com/Delvir0/Audits/blob/main/Wassie-Racing/report.md)
+| [Grappa Finance](https://www.grappa.finance/) | Full Collateral Engine | 1C, 2M |[report](https://github.com/Delvir0/Grappa-Finance/blob/main/GrappaFinance-FullCollateralEngine-report.md.pdf)
+| [Wassie-Racing](https://wassieracing.com/) | Game Contracts | 1C, 2H, 1M |[report](https://github.com/Delvir0/Audits/blob/main/Wassie-Racing/report.md)
 
+# SpearBit reviews
+adding...
 
 ## Contests
 
