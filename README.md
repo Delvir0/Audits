@@ -21,8 +21,8 @@ Provides reports of all performed audits.
 ## Private reviews
 
 | protocol | scope | found | report |
-| ---- | ---- | ---------|
-| [Grappa Finance](https://www.grappa.finance/) | Full Collateral Engine | 1C, 2M |[report](https://github.com/Delvir0/Grappa-Finance/blob/main/GrappaFinance-FullCollateralEngine-report.md.pdf)
+| ---- | ---- | ----- |---------|
+| [Grappa Finance](https://www.grappa.finance/) | Full Collateral Engine | 1C, 2M |[report](https://github.com/Delvir0/Audits/blob/main/Grappa%20Finance/report.md)
 | [Wassie-Racing](https://wassieracing.com/) | Game Contracts | 1C, 2H, 1M |[report](https://github.com/Delvir0/Audits/blob/main/Wassie-Racing/report.md)
 
 # SpearBit reviews
