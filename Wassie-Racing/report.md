@@ -1,8 +1,8 @@
 <table>
     <tr><th></th><th></th></tr>
     <tr>
-        <td><img src="https://github.com/Delvir0/files/blob/main/wassieracing.png" width="1000" height="250" /></td>
-        <td>
+        <td><img src="https://github.com/Delvir0/stuff/blob/main/wassieracing.png" width="1000" height="250" /></td>
+        <td> 
             <h1>Wassie Racing</h1>
             <h2>Betting game</h2>
             <h3>Status: deployed on testnet</h3>
