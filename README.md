@@ -26,7 +26,14 @@ Provides reports of all performed audits.
 | [Wassie-Racing](https://wassieracing.com/) | Game Contracts | 1C, 2H, 1M |[report](https://github.com/Delvir0/Audits/blob/main/Wassie-Racing/report.md)
 
 # SpearBit reviews
-adding...
+| protocol | report |
+| -- | -- |
+| Agora | private |
+| Level Money (Phase 1)| to be added |
+| Level Money (Phase 2)| to be added |
+| Level Money (Phase 3)| [report](https://storage.googleapis.com/level-public/audits/lvlUSD%20v1%20-%20Spearbit%20Cantina)|
+| Level Money (Phase 4)| [report](https://storage.googleapis.com/level-public/audits/lvlUSD%20v1.1%20%2B%20Staked%20lvlUSD%20-%20Spearbit%20Cantina.pdf) |
+| Coinbase | private |
 
 ## Contests
 
@@ -38,3 +45,6 @@ adding...
 | Bond Options | OTLM.sol | 1 M | 15/153 | [report](https://audits.sherlock.xyz/contests/99/report) 
 | Dinari | full contest | 1 M | 16/176 | [report](https://audits.sherlock.xyz/contests/98/report) 
 | Rubicon V2 | RubiconMarket.sol | 2 H | 101/179 | [report](https://github.com/Delvir0/Grappa-Finance/blob/main/GrappaFinance-FullCollateralEngine-report.md.pdf)
+
+## Public content
+[Mindmaps and Architecture](https://www.youtube.com/watch?v=CbA_DCwHmCE)
