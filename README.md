@@ -1,39 +1,40 @@
+# Index
+- Audit methodology
+- Private reviews
+- Team reviews
+- Contests
+- Development
+- Public content
+
+
 # Audit methodology
-In the dynamic world of Smart Contract auditing, it is essential to be equally precise and dynamic.\
-I've created an audit methodology consisting of four stages, ensuring a comprehensive codebase examination.
-
-### Stage 1: Codebase Understanding
-Thoroughly analyse the codebase, constructing a comprehensive mental framework. Essentially laying the groundwork for a clear understanding of the protocol's architecture.
-
-### Stage 2: Insight Amplification
-Following up on Stage 1, refining the insights gained during the analysis. By revisiting and refining initial observations, aspects that may seem off, strike as not logical or possible attack entries are diligently pursued.
-
-### Stage 3: Unveiling Vulnerabilities
-Proactively seeking out weaknesses, basically poking at area's where "it would be really bad if this would (intentionally) break". This is done manually and by using tools (e.g. fuzzing). Usually, this is the part where the most severe issues arise.
-
-### Stage 4: Harnessing Collective Creativity
-Gain insights from the wider community by reading recent audits of similar protocols (such as on solodit.xyz). This infuses fresh perspectives and innovative insights into the audit, boosting its effectiveness.
-
-# Audit reports
-
-Provides reports of all performed audits.
+Keep it simple:
+1. Find as many bugs as possible, and then even more
+2. It's not about finding bugs only, it's about your project
+3. Clear communication from start to even after finish
 
 ## Private reviews
 
-| protocol | scope | found | report |
-| ---- | ---- | ----- |---------|
-| [Grappa Finance](https://www.grappa.finance/) | Full Collateral Engine | 1C, 2M |[report](https://github.com/Delvir0/Audits/blob/main/Grappa%20Finance/report.md)
-| [Wassie-Racing](https://wassieracing.com/) | Game Contracts | 1C, 2H, 1M |[report](https://github.com/Delvir0/Audits/blob/main/Wassie-Racing/report.md)
+| Date | Protocol | Category |  Environment | Duration | Report |
+| ---- | ---- | ---- | ---- | ---- | ----- |
+| 07-2023 | [Grappa Finance](https://www.grappa.finance/) | Margin trading, Options |  EVM Solidity | 1 week |[report](https://github.com/Delvir0/Audits/blob/main/Grappa%20Finance/report.md)
+| 03-2024 |[Wassie-Racing](https://wassieracing.com/) | Game, Betting | EVM Solidity | 1 week |[report](https://github.com/Delvir0/Audits/blob/main/Wassie-Racing/report.md)
 
-# SpearBit reviews
-| protocol | report |
-| -- | -- |
-| Agora | private |
-| Level Money (Phase 1)| to be added |
-| Level Money (Phase 2)| to be added |
-| Level Money (Phase 3)| [report](https://storage.googleapis.com/level-public/audits/lvlUSD%20v1%20-%20Spearbit%20Cantina)|
-| Level Money (Phase 4)| [report](https://storage.googleapis.com/level-public/audits/lvlUSD%20v1.1%20%2B%20Staked%20lvlUSD%20-%20Spearbit%20Cantina.pdf) |
-| Coinbase | private |
+## Team reviews
+| Date | Protocol | Category |  Environment | Duration | Provider |
+| ---- | ---- | ---- | ----- | ---- | ---- |
+| 05-2024 | Level Money | Stabelcoin, Restaking | 3 days | EVM Solidity | Cantina |
+| 05-2024 | Coinbase | Factory, NFT  | EVM Solidity | 4 days | Cantina |
+| 06-2024 | [Agora Finance](https://www.agora.finance/) | Stablecoin  | EVM Solidity | 1.5 weeks | Spearbit |
+| 06-2024 | [Level Money](https://cantina.xyz/portfolio/131241f5-7399-476e-acd1-dc57c8f00e39) | Stabelcoin, Restaking | EVM Solidity | 3 days | Cantina |
+| 09-2024 | [Level Money](https://cantina.xyz/portfolio/99c7abab-0ff5-4e0e-a796-b1294271ca25) | Stabelcoin, Restaking | EVM Solidity | 1 week | Cantina |
+| 10-2024 | [Level Money](https://cantina.xyz/portfolio/612f3254-f6a6-420d-8d51-fb058e4af022) | Stabelcoin, Restaking | EVM Solidity | 1.2 weeks | Cantina |
+| 11-2024 | Liquify | Liquid vesting | EVM Solidity | 1 week | BailSecurity |
+
+## Development
+| Protocol | Category | Scope | Environment |
+| --- | --- | --- | --- | 
+| [Level Money](https://level.money/) | Stablecoin, restaking | Level Minting V2 implementation | EVM Solidity |
 
 ## Contests
 
