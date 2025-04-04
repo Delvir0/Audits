@@ -21,15 +21,15 @@ Keep it simple:
 | 03-2024 |[Wassie-Racing](https://wassieracing.com/) | Game, Betting | EVM Solidity | 1 week |[report](https://github.com/Delvir0/Audits/blob/main/Wassie-Racing/report.md)
 
 ## Team reviews
-| Date | Protocol | Category |  Environment | Duration | Provider |
-| ---- | ---- | ---- | ----- | ---- | ---- |
-| 05-2024 | Level Money | Stabelcoin, Restaking | EVM Solidity | 3 days | Cantina |
-| 05-2024 | Coinbase | Factory, NFT  | EVM Solidity | 4 days | Cantina |
-| 06-2024 | [Agora Finance](https://www.agora.finance/) | Stablecoin  | EVM Solidity | 1.5 weeks | Spearbit |
-| 06-2024 | [Level Money](https://cantina.xyz/portfolio/131241f5-7399-476e-acd1-dc57c8f00e39) | Stabelcoin, Restaking | EVM Solidity | 3 days | Cantina |
-| 09-2024 | [Level Money](https://cantina.xyz/portfolio/99c7abab-0ff5-4e0e-a796-b1294271ca25) | Stabelcoin, Restaking | EVM Solidity | 1 week | Cantina |
-| 10-2024 | [Level Money](https://cantina.xyz/portfolio/612f3254-f6a6-420d-8d51-fb058e4af022) | Stabelcoin, Restaking | EVM Solidity | 1.2 weeks | Cantina |
-| 11-2024 | Liquify | Liquid vesting | EVM Solidity | 1 week | BailSecurity |
+| Date | Protocol | Category |  Environment | Duration | Provider | Report |
+| ---- | ---- | ---- | ----- | ---- | ---- | --- |
+| 05-2024 | Level Money | Stabelcoin, Restaking | EVM Solidity | 3 days | Cantina | To be added |
+| 05-2024 | Coinbase | Factory, NFT  | EVM Solidity | 4 days | Cantina | Private |
+| 06-2024 | [Agora Finance](https://www.agora.finance/) | Stablecoin  | EVM Solidity | 1.5 weeks | Spearbit | Private |
+| 06-2024 | [Level Money](https://level.money) | Stabelcoin, Restaking | EVM Solidity | 3 days | Cantina | [Report](https://cantina.xyz/portfolio/131241f5-7399-476e-acd1-dc57c8f00e39) |
+| 09-2024 | [Level Money](https://level.money) | Stabelcoin, Restaking | EVM Solidity | 1 week | Cantina | [Report](https://cantina.xyz/portfolio/99c7abab-0ff5-4e0e-a796-b1294271ca25) |
+| 10-2024 | [Level Money](https://level.money) | Stabelcoin, Restaking | EVM Solidity | 1.2 weeks | Cantina | [Report](https://cantina.xyz/portfolio/612f3254-f6a6-420d-8d51-fb058e4af022) |
+| 11-2024 | Liquify | Liquid vesting | EVM Solidity | 1 week | BailSecurity | Private |
 
 ## Development
 | Protocol | Category | Scope | Environment |
