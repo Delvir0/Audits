@@ -23,7 +23,7 @@ Keep it simple:
 ## Team reviews
 | Date | Protocol | Category |  Environment | Duration | Provider |
 | ---- | ---- | ---- | ----- | ---- | ---- |
-| 05-2024 | Level Money | Stabelcoin, Restaking | 3 days | EVM Solidity | Cantina |
+| 05-2024 | Level Money | Stabelcoin, Restaking | EVM Solidity | 3 days | Cantina |
 | 05-2024 | Coinbase | Factory, NFT  | EVM Solidity | 4 days | Cantina |
 | 06-2024 | [Agora Finance](https://www.agora.finance/) | Stablecoin  | EVM Solidity | 1.5 weeks | Spearbit |
 | 06-2024 | [Level Money](https://cantina.xyz/portfolio/131241f5-7399-476e-acd1-dc57c8f00e39) | Stabelcoin, Restaking | EVM Solidity | 3 days | Cantina |
