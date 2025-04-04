@@ -2,8 +2,8 @@
 - Audit methodology
 - Private reviews
 - Team reviews
-- Contests
 - Development
+- Contests
 - Public content
 
 
